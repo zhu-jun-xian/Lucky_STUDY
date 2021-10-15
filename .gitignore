@@ -1,2 +1,3 @@
 #忽略掉/c目录
-/c/
+\c\.vscode
+\c++\.vscode
